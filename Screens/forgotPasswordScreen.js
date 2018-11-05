@@ -32,7 +32,7 @@ class forgotPasswordScreen extends React.Component{
         return (
             <View>   
             <View>
-                <Text style ={forgorPasswordScreenStyles.forgorPasswordText} >Let's retrieve your password</Text>
+                <Text style ={forgorPasswordScreenStyles.forgorPasswordText} >Lets retrieve your password</Text>
                 <TextInput style = {forgorPasswordScreenStyles.forgotPasswordInput}
                     placeholder = "Enter email here"
                     autoCapitalize = 'none'
